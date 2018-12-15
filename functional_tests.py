@@ -9,6 +9,6 @@ assert 'Django' in browser.title
 
 print(browser.title)
 
-sleep(1000)
+sleep(10)
 
 browser.quit()
